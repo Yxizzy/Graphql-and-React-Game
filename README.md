@@ -14,3 +14,4 @@ How I created this app:
 12) I installed material ui for styling
 13) I installed react-tap-event-plugin for tap events in mobile app, without it tapping might be slow on mobile apps
 14) Now I logged into my heroku and created heroku app using buildpack from https://github.com/mars/create-react-app-builderpack.git
+15) heroku config:set graphcool variable
